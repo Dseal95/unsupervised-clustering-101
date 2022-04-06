@@ -1,0 +1,5 @@
+plotly 
+seaborn
+kneed
+sklearn
+jupyter-black
